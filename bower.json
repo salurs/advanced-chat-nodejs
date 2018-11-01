@@ -1,0 +1,14 @@
+{
+  "name": "advanced-chat-nodejs",
+  "description": "advanced chat system with nodejs",
+  "main": "",
+  "authors": [
+    "salurs <orhsssalur@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/salurs/advanced-chat-nodejs"
+}
