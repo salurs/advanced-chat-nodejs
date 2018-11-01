@@ -11,6 +11,9 @@ var usersRouter = require('./routes/users');
 
 var app = express();
 
+//db
+const db = require('./helpers/db')();
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
