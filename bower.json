@@ -10,5 +10,8 @@
     "chat",
     "nodejs"
   ],
-  "homepage": "https://github.com/salurs/advanced-chat-nodejs"
+  "homepage": "https://github.com/salurs/advanced-chat-nodejs",
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
 }
